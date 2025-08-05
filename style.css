@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f4f4;
+  color: #333;
+}
+header {
+  background: #003366;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header .logo {
+  height: 60px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+  background: #00BFFF;
+  color: white;
+}
+.btn {
+  padding: 10px 20px;
+  background: #003366;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.services, .why-choose, .main-content {
+  padding: 40px 20px;
+  background: white;
+  margin: 20px;
+  border-radius: 8px;
+}
+.service-box {
+  margin-bottom: 20px;
+}
+footer {
+  background: #003366;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
